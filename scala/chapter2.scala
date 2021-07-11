@@ -1,4 +1,4 @@
-object MyModule {
+object Chapter2 {
   def main(args: Array[String]): Unit = {
     // 연습문제 2.1
     println(fib(5))
